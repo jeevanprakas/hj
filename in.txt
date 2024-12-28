@@ -1,0 +1,6 @@
+git init
+git status
+git add .
+git commit -m""
+git status check 
+git push origin main
